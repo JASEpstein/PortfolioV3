@@ -200,3 +200,33 @@ a:hover, a:focus, a:active {
 .image-wrapper .card-img-top {
   display: none;
 }
+
+.link1 {
+  -webkit-animation-duration: 600ms;
+  animation-duration: 600ms;
+}
+
+.link2 {
+  -webkit-animation-duration: 800ms;
+  animation-duration: 800ms;
+}
+
+.link3 {
+  -webkit-animation-duration: 1000ms;
+  animation-duration: 1000ms;
+}
+
+.link4 {
+  -webkit-animation-duration: 1200ms;
+  animation-duration: 1200ms;
+}
+
+.link5 {
+  -webkit-animation-duration: 1400ms;
+  animation-duration: 1400ms;
+}
+
+.link6 {
+  -webkit-animation-duration: 1600ms;
+  animation-duration: 1600ms;
+}
